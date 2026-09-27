@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: benTeen24.github.io/backprop-site
+  baseUrl: benTeen24.github.io/backprop
   ignorePatterns:
     - private
     - templates
