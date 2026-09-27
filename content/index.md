@@ -11,7 +11,7 @@ Notes on papers and ideas I'm reading in AI/ML.
 The weight update rule during gradient descent:
 
 $$
-w \leftarrow w - \eta \frac{\partial L}{\partial w}
+w \leftarrow w - \eta \frac{\partial L}{\partial w} 
 $$
 
 where $\eta$ is the learning rate and $L$ is the loss. In code, one SGD step looks like:
